@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="mxqq-project-api" target="1.8" />
+      <module name="mxqq-project-dao" target="1.8" />
+      <module name="mxqq-project-domain" target="1.8" />
+      <module name="mxqq-project-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mxqq-project" options="-parameters" />
+      <module name="mxqq-project-api" options="-parameters" />
+      <module name="mxqq-project-dao" options="-parameters" />
+      <module name="mxqq-project-domain" options="-parameters" />
+      <module name="mxqq-project-service" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,238 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6d2e398-a8b1-4151-bd97-c931a0c7d4eb" name="Default Changelist" comment="">
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-cloud-thost/.gitignore" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-cloud-thost/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-cloud-thost/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-cloud-thost/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-cloud-thost/mvnw" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-cloud-thost/mvnw.cmd" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-cloud-thost/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-cloud-thost/src/main/java/${packageInPathFormat}/mxqqcloudthost/MxqqCloudThostApplication.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-cloud-thost/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-cloud-thost/src/test/java/${packageInPathFormat}/mxqqcloudthost/MxqqCloudThostApplicationTests.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp/mxqq-plm-idp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp/mxqq-plm-idp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp/mxqq-plm-idp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp/mxqq-plm-idp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp/mxqq-plm-idp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp/mxqq-plm-idp/mxqq-plm-idp.iml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp/mxqq-plm-idp/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp2/mxqq-plm-idp2-api/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp2/mxqq-plm-idp2-dao/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp2/mxqq-plm-idp2-domain/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp2/mxqq-plm-idp2-service/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp2/mxqq-plm-idp2.iml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp2/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-plm-idp2/untitled/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/.gitignore" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/misc.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/${artifactId}.iml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/src/main/resources/META-INF/maven/archetype-metadata.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/src/main/resources/archetype-resources/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/src/main/resources/archetype-resources/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/src/main/resources/archetype-resources/.idea/misc.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/src/main/resources/archetype-resources/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/src/main/resources/archetype-resources/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/src/main/resources/archetype-resources/__artifactId__.iml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/src/test/resources/projects/basic/archetype.properties" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/src/test/resources/projects/basic/goal.txt" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/classes/META-INF/maven/archetype-metadata.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/classes/archetype-resources/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/classes/archetype-resources/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/classes/archetype-resources/.idea/misc.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/classes/archetype-resources/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/classes/archetype-resources/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/classes/archetype-resources/__artifactId__.iml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/classes/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/${artifactId}-archetype-${version}.jar" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/test-classes/projects/basic/archetype.properties" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/test-classes/projects/basic/goal.txt" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/test-classes/projects/basic/project/basic/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/test-classes/projects/basic/project/basic/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/test-classes/projects/basic/project/basic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/test-classes/projects/basic/project/basic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/test-classes/projects/basic/project/basic/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/generated-sources/archetype/target/test-classes/projects/basic/project/basic/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-spring-boot/.gitignore" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-spring-boot/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-spring-boot/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-spring-boot/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-spring-boot/mvnw" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-spring-boot/mvnw.cmd" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-spring-boot/mxqq-spring-boot-autoconfigure/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-spring-boot/mxqq-spring-boot-autoconfigure/src/main/java/mxqq/spring/boot/configuration/MxqqConfiguration.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-spring-boot/mxqq-spring-boot-starter/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-spring-boot/mxqq-spring-boot-starter/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-spring-boot/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../mxqq-spring-boot/src/test/java/${packageInPathFormat}/mxqqspringboot/MxqqSpringBootApplicationTests.java" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled/src/main/resources/NETA-INF.maven/archetype-metadata.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled/untitled-api/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled/untitled-dao/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled/untitled-domain/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled/untitled-service/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled1/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled1/src/main/resources/META-INF/maven/archetype-metadata.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled1/untitled1-api/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled1/untitled1-dao/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled1/untitled1-domain/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled1/untitled1-service/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled2/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled2/src/main/resources/META-INF/maven/archetype-metadata.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled3/pom.xml" afterDir="false" />
+      <change afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/../untitled3/untitled3.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:${symbol_escape}github${symbol_escape}${artifactId}${symbol_escape}.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XWwldon8L06FZKyYRwkNm1EfQ5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:${symbol_escape}github${symbol_escape}${artifactId}${symbol_escape}src${symbol_escape}main${symbol_escape}resources${symbol_escape}META-INF${symbol_escape}maven" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6d2e398-a8b1-4151-bd97-c931a0c7d4eb" name="Default Changelist" comment="" />
+      <created>1581175310874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581175310874</updated>
+      <workItem from="1581175316392" duration="7868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="251" key="GridCell.Tab.0.bottom" timestamp="1581246908378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581246908378" />
+    <state width="1877" height="251" key="GridCell.Tab.0.center" timestamp="1581246908378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="251" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581246908378" />
+    <state width="1877" height="251" key="GridCell.Tab.0.left" timestamp="1581246908375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="251" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581246908375" />
+    <state width="1877" height="251" key="GridCell.Tab.0.right" timestamp="1581246908378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="251" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581246908378" />
+    <state x="647" y="68" width="1207" height="875" key="SettingsEditor" timestamp="1581182997744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="68" width="1207" height="875" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581182997744" />
+    <state x="669" y="210" key="new project wizard" timestamp="1581183083675">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="210" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1581183083675" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1581184247159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581184247159" />
+  </component>
+</project>
